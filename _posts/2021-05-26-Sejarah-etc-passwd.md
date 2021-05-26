@@ -14,6 +14,6 @@ Pelajaran Sejarah UNIX: Sistem password shadow pertama kali diperkenalkan pada p
 </i></u><br><br>
 <i><u>
 Tidak seperti file /etc/passwd dan /etc/group, /etc/shadow dilindungi dan pengguna biasa tidak dapat melihat isinya. Ini memberikan tingkat keamanan tambahan untuk itu. Pengguna tidak perlu melihat isi /etc/shadow, tetapi file lain berguna untuk melihat akun apa yang tersedia, grup yang ada, dan siapa yang menjadi anggotanya.
-</i></u><br><br>
+</u><i><br><br>
 Contoh urutan pada file /etc/passwd:
 
