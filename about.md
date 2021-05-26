@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Tentang saya
 permalink: /about/
 ---
 
-Some information about you!
+Hanya seorang anak lelaki pada umumnya, hanya saja sangat tertarik pada dunia IT
 
-### More Information
+### Tujuan Blog
 
-A place to include any other types of information that you'd like to include about yourself.
+Di sini saya akan berbagi tentang hal-hal ataupun informasi yang saya ketahui dan semoga itu bermanfaat untuk pengunjung di sini.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ikiwoioi11@gmail.com](mailto:ikiwoioi11@gmail.com)
