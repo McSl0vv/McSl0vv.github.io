@@ -4,6 +4,7 @@ title: Sejarah File /etc/passwd pada linux
 tags: pengetahuan, linux
 category: Pengetahuan, Informasi, Linux
 description: Banyak hal menarik dibalik sejarah file /etc/passwd
+image: "/images/passwd.png"
 comments: true
 fullview: false
 ---
