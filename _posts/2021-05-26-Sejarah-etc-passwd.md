@@ -19,9 +19,24 @@ Contoh urutan pada file /etc/passwd:
 <br>Formatnya adalah:
 <ul>
 <li> User</li>
-<li> Password (tanda "x" mengartikan bahwa password terletak di file <b>/etc/shadow</b></li>
+<li> Password (tanda "x" mengartikan bahwa password terletak di file <b>/etc/shadow</b>)</li>
 <li> User ID</li>
 <li> Group ID</li>
 <li> User ID Info (GECOS)</li>
 <li> Path command/shell</li>
+</ul>
+<br><br>
+Contoh urutan pada file /etc/shadow:
+<br><br>
+<textarea style="background-color:black;color:lime;" rows="4" cols="40" readonly>mcsl0vv:$y$j9T$8D3XXih9XXXra4x70qCTh0$IzXQ4xnExxX8/b1xXxB/J.ugPcXrTHvH/xxxXX7xXXX:18747:0:99999:7:::</textarea>
+<br>Formatnya Adalah:
+<ul>
+<li> Username</li>
+<li> Password</li>
+<li> Tanggal perubahan kata sandi terakhir</li>
+<li> Hari sampai perubahan diperbolehkan</li>
+<li> Hari sebelum perubahan diperlukan</li>
+<li> Hari peringatan untuk kedaluwarsa</li>
+<li> Hari sebelum akun tidak aktif</li>
+<li> Tanggal ketika akun kadaluarsa</li>
 </ul>
