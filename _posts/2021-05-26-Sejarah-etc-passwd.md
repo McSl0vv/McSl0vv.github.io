@@ -11,9 +11,9 @@ fullview: false
 
 <u><i>
 Pelajaran Sejarah UNIX: Sistem password shadow pertama kali diperkenalkan pada pertengahan 1980-an oleh sistem SunOS UNIX Sun dan pada tahun 1990 disalin secara luas dan pada dasarnya ada di mana-mana dalam sistem UNIX. Jadi konsep bayangan telah menjadi bagian dari Linux sejak awal.
-</i></u><br><br>
+<br><br>
 <i><u>
 Tidak seperti file /etc/passwd dan /etc/group, /etc/shadow dilindungi dan pengguna biasa tidak dapat melihat isinya. Ini memberikan tingkat keamanan tambahan untuk itu. Pengguna tidak perlu melihat isi /etc/shadow, tetapi file lain berguna untuk melihat akun apa yang tersedia, grup yang ada, dan siapa yang menjadi anggotanya.
-</u></i><br><br>
+<br><br>
 Contoh urutan pada file /etc/passwd:
 
