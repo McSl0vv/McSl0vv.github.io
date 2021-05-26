@@ -15,7 +15,7 @@ fullview: false
 <br><br>
 Contoh urutan pada file /etc/passwd:
 <br><br>
-<b>mcsl0vv</b>:<b>x</b>:1021:1020::/home/mcsl0vv:/usr/local/cpanel/bin/jailshell
+<textarea read-only>mcsl0vv:x:1021:1020::/home/mcsl0vv:/usr/local/cpanel/bin/jailshell</textarea>
 <br>Formatnya adalah:
 <ul>
 <li> User</li>
