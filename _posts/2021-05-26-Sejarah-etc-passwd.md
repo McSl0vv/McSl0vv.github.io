@@ -16,3 +16,12 @@ fullview: false
 Contoh urutan pada file /etc/passwd:
 <br><br>
 <b>mcsl0vv</b>:<b>x</b>:1021:1020::/home/mcsl0vv:/usr/local/cpanel/bin/jailshell
+<br>Formatnya adalah:
+<ul>
+<li> User</li>
+<li> Password (tanda "x" mengartikan bahwa password terletak di file <b>/etc/shadow</b></li>
+<li> User ID</li>
+<li> Group ID</li>
+<li> User ID Info (GECOS)</li>
+<li> Path command/shell</li>
+</ul>
