@@ -14,4 +14,5 @@ fullview: false
 <i><u>Tidak seperti file /etc/passwd dan /etc/group, /etc/shadow dilindungi dan pengguna biasa tidak dapat melihat isinya. Ini memberikan tingkat keamanan tambahan untuk itu. Pengguna tidak perlu melihat isi /etc/shadow, tetapi file lain berguna untuk melihat akun apa yang tersedia, grup yang ada, dan siapa yang menjadi anggotanya.</u></i>
 <br><br>
 Contoh urutan pada file /etc/passwd:
-
+<br><br>
+<b>mcsl0vv</b>:<b>x</b>:1021:1020::/home/mcsl0vv:/usr/local/cpanel/bin/jailshell
