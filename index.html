@@ -11,7 +11,6 @@ layout: default
       <div class="entry"> {% assign excerptParts = post.excerpt 
         | split: "<!-- excerpt-start -->" %}
     {{ excerptParts[1] | strip_newlines | truncatewords: 50 }} 
-    </div>
 {% endfor %}
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
